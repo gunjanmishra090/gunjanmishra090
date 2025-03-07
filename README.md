@@ -37,7 +37,7 @@ I'm a passionate MCA student with a love for software development, and full-stac
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](www.linkedin.com/in/gunjan-mishra-b73a77322)  <!-- Update with your profile link -->
+- [LinkedIn](https://www.linkedin.com/in/gunjan-mishra-b73a77322)  <!-- Update with your profile link -->
 - [Email](mailto:gunjanmishra0137@gmail.com)  <!-- Update with your email -->
 
 ---
