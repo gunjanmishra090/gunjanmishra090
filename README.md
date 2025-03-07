@@ -1,6 +1,6 @@
 # Hi, I'm Gunjan 👋
 
-I'm a passionate MCA student with a love for AI/ML, software development, and full-stack development. I strive to innovate and build meaningful solutions.
+I'm a passionate MCA student with a love for software development, and full-stack development. I strive to innovate and build meaningful solutions.
 
 ---
 
@@ -18,6 +18,8 @@ I'm a passionate MCA student with a love for AI/ML, software development, and fu
 ### Programming Languages & Frameworks:
 - **C**, **Java**, **Python**
 - **MERN Stack:** MongoDB, Express, React, Node.js
+- **AI/ML:** Pandas, NumPy
+- **Data Analysis:** SQL, Power BI
 
 ### Tools & Platforms:
 - Git, GitHub, VS Code, Linux
@@ -35,7 +37,7 @@ I'm a passionate MCA student with a love for AI/ML, software development, and fu
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  <!-- Update with your profile link -->
+- [LinkedIn]()  <!-- Update with your profile link -->
 - [Email](mailto:your.email@example.com)  <!-- Update with your email -->
 
 ---
