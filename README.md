@@ -6,7 +6,7 @@ I'm a passionate MCA student with a love for software development, and full-stac
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Data Structures & Algorithms, Full Stack Development, and System Design.
+- 🔭 I’m currently working on Full Stack Development, Data Analysis and AI/ML.
 - 🌱 I’m continuously learning new technologies and sharpening my coding skills.
 - 👯 I’m open to collaborating on projects that challenge the status quo in tech.
 - 🤔 Always eager to explore and apply the latest in AI/ML and software development.
@@ -22,7 +22,7 @@ I'm a passionate MCA student with a love for software development, and full-stac
 - **Data Analysis:** SQL, Power BI
 
 ### Tools & Platforms:
-- Git, GitHub, VS Code, Linux
+- Git, GitHub, VS Code
 
 ---
 
