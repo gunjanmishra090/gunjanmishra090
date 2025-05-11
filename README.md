@@ -1,6 +1,6 @@
 # Hi, I'm Gunjan 👋
 
-I'm a passionate MCA student with a love for software development, and full-stack development. I strive to innovate and build meaningful solutions.
+I'm a passionate MCA student with a love for data analysis, AL/ML and full-stack development. I strive to innovate and build meaningful solutions.
 
 ---
 
