@@ -1,52 +1,58 @@
-# Hi, I'm Gunjan 👋
+# 📊 Sales Data Analysis
 
-I'm a passionate MCA student with a love for data analysis, AL/ML and full-stack development. I strive to innovate and build meaningful solutions.
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on Full Stack Development, Data Analysis and AI/ML.
-- 🌱 I’m continuously learning new technologies and sharpening my coding skills.
-- 👯 I’m open to collaborating on projects that challenge the status quo in tech.
-- 🤔 Always eager to explore and apply the latest in AI/ML and software development.
+A data analysis project focused on understanding key trends and business insights from retail sales data. This project combines data cleaning, transformation, and exploratory data analysis using Python and its powerful libraries.
 
 ---
 
-## 💻 My Tech Stack
+## 🚀 Objective
 
-### Programming Languages & Frameworks:
-- **C**, **Java**, **Python**
-- **MERN Stack:** MongoDB, Express, React, Node.js
-- **AI/ML:** Pandas, NumPy
-- **Data Analysis:** SQL, Power BI
+To explore and analyze monthly sales data from 2019 to answer business-critical questions such as:
 
-### Tools & Platforms:
-- Git, GitHub, VS Code
+- Which month had the highest sales?
+- Which cities generated the most revenue?
+- Which products are frequently bought together?
+- What is the relationship between product price and quantity sold?
 
 ---
 
-## 📊 GitHub Stats
+## 🧾 Dataset Description
 
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gunjanmishra090&theme=radical)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjanmishra090&show_icons=true&theme=radical)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanmishra090&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanmishra090&theme=radical)
+The dataset comprises multiple `.csv` files—each representing sales data for a month in 2019. These files contain:
 
+- `Order ID`
+- `Product`
+- `Quantity Ordered`
+- `Price Each`
+- `Order Date`
+- `Purchase Address`
 
----
-
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/gunjan-mishra-b73a77322)  <!-- Update with your profile link -->
-- [Email](https://gunjanmishra0137@gmail.com)  <!-- Update with your email -->
+> 📁 All files are stored in the `Sales_Data/` folder.
 
 ---
 
-## 🌐 Visitor Count
+## 🛠️ Tools & Technologies
 
-![Visitor Count](https://profile-counter.glitch.me/Tech-By-Gunjan/count.svg)
+- **Language:** Python 3
+- **Notebook:** Jupyter
+- **Libraries:**
+  - `pandas` – data manipulation
+  - `numpy` – numerical operations
+  - `matplotlib` & `seaborn` – data visualization
+  - `os`, `glob` – file handling utilities
 
 ---
 
-Thanks for stopping by! Let's collaborate and create something amazing. 🚀
+## 🔍 Key Insights
+
+- 📅 **December** was the best month for sales, likely due to holiday shopping.
+- 🏙️ **San Francisco** topped the list for city-wise revenue, followed by Los Angeles and New York City.
+- 🔗 **Frequently Bought Together:** Items like *iPhone* and *Lightning Charging Cable* were commonly sold in pairs.
+- 💰 **Price vs Quantity:** Lower-priced products had higher sales volumes, but premium products contributed significantly to revenue.
+
+---
+
+## 📂 Project Structure
+
+├── Sales_Data/ # Folder containing raw monthly CSV files
+├── Sales_Data_Analysis.ipynb # Jupyter Notebook with complete analysis
+└── README.md # Project documentation
