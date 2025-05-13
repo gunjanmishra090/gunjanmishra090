@@ -54,6 +54,6 @@ The dataset comprises multiple `.csv` files—each representing sales data for a
 ## 📂 Project Structure
 
 Sales_Data_Analysis
-├── ```Sales_Data/```                 # CSV files
-├── ```Sales_Data_Analysis.ipynb```   # Jupyter notebook with analysis
-└── ```README.md```                   # Documentation file
+```├── Sales_Data/```                 # CSV files
+```├──Sales_Data_Analysis.ipynb```    # Jupyter notebook with analysis
+```└── README.md```                   # Documentation file
