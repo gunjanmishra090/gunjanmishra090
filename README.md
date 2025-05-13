@@ -29,8 +29,7 @@ I'm a passionate MCA student with a love for AI/ML, data analysis, and full-stac
 - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gunjanmishra090&theme=radical)
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjanmishra090&show_icons=true&theme=radical)
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanmishra090&layout=compact&theme=radical)
-- ![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanmishra090&theme=radical)
-
+- ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gunjanmishra090&theme=radical) 
 
 ---
 
