@@ -6,7 +6,7 @@ I'm a passionate MCA student with a love for AI/ML, data analysis, and full-stac
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Data Structures & Algorithms, Full Stack Development, and System Design.
+- 🔭 I’m currently working on Data Analysis, AI/ML Full Stack Development.
 - 🌱 I’m continuously learning new technologies and sharpening my coding skills.
 - 👯 I’m open to collaborating on projects that challenge the status quo in tech.
 - 🤔 Always eager to explore and apply the latest in AI/ML and software development.
@@ -26,10 +26,10 @@ I'm a passionate MCA student with a love for AI/ML, data analysis, and full-stac
 
 ## 📊 GitHub Stats
 
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-By-Gunjan&theme=radical)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-By-Gunjan&show_icons=true&theme=radical)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-By-Gunjan&layout=compact&theme=radical)
-- ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tech-By-Gunjan&theme=radical)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gunjanmishra090&theme=radical)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjanmishra090&show_icons=true&theme=radical)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanmishra090&layout=compact&theme=radical)
+- ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gunjanmishra090n&theme=radical)
 
 ---
 
