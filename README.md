@@ -1,49 +1,95 @@
-# Hi, I'm Gunjan 👋
+<h1 align="center">Hi 👋, I'm Gunjan Mishra</h1>
+<h3 align="center">🚀 MCA Student | Full Stack Developer | Data Analyst | Quality Analyst(Manual Testing) | AI/ML Enthusiast</h3>
 
-I'm a passionate MCA student with a love for AI/ML, data analysis, and full-stack development. I strive to innovate and build meaningful solutions.
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on Data Analysis, AI/ML Full Stack Development.
-- 🌱 I’m continuously learning new technologies and sharpening my coding skills.
-- 👯 I’m open to collaborating on projects that challenge the status quo in tech.
-- 🤔 Always eager to explore and apply the latest in AI/ML and software development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gunjanmishra090&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 💻 My Tech Stack
+## 🌟 About Me
 
-### Programming Languages & Frameworks:
-- **C**, **Java**, **Python**
-- **MERN Stack:** MongoDB, Express, React, Node.js
+- 🔭 Working on **Full Stack Development & System Design**
+- 🌱 Learning **DSA, AI/ML, and Data Analytics**
+- 👯 Open to **collaboration on real-world projects**
+- 💡 Interested in **building scalable & impactful solutions**
 
-### Tools & Platforms:
-- Git, GitHub, VS Code, Linux
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>
+
+### 🌐 Web Development (MERN)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+### 📊 Data & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gunjanmishra090&theme=radical)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunjanmishra090&show_icons=true&theme=radical)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanmishra090&layout=compact&theme=radical)
-- ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gunjanmishra090&theme=radical) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjanmishra090&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanmishra090&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanmishra090&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 How to Reach Me
+## 📈 Activity Graph
 
-- [LinkedIn](www.linkedin.com/in/gunjan-mishra-b73a77322)  <!-- Update with your profile link -->
-- [Email](gunjanmishra0137@gmail.com)  <!-- Update with your email -->
-
----
-
-## 🌐 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/Tech-By-Gunjan/count.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunjanmishra090&theme=tokyo-night" />
+</p>
 
 ---
 
-Thanks for stopping by! Let's collaborate and create something amazing. 🚀
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gunjanmishra090&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/gunjan-mishra-b73a77322">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+✨ *"Code. Debug. Learn. Repeat."* ✨
+
+---
+
+⭐ From [Gunjan Mishra](https://github.com/gunjanmishra090)
