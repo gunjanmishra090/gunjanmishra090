@@ -72,9 +72,6 @@
   <a href="https://www.linkedin.com/in/gunjan-mishra-b73a77322">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
 
 ---
